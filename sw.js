@@ -4,6 +4,7 @@ self.addEventListener('install', e => {
       return cache.addAll([
         '/',
         '/index.html',
+        '/inbox.html',
         '/styles.css',
         '/images/android-desktop.png',
         '/images/dog.png',
