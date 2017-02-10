@@ -5,6 +5,7 @@ self.addEventListener('install', e => {
         '/',
         '/index.html',
         '/inbox.html',
+        '/social.html',
         '/styles.css',
         '/images/android-desktop.png',
         '/images/dog.png',
