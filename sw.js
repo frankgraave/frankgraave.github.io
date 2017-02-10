@@ -11,6 +11,7 @@ self.addEventListener('install', e => {
         '/images/favicon.png',
         '/images/ios-desktop.png',
         '/images/user.jpg',
+        '/images/space.jpg',
       ])
       .then(() => self.skipWaiting());
     })

@@ -201,8 +201,12 @@ _:-ms-input-placeholder, :root .demo-graph {
 
 .demo-card-wide.mdl-card {
   width: 100%;
-  height: 100px !important;
   margin: 20px 20px 0 20px;
+}
+.demo-card-wide > .mdl-card__title {
+  color: #fff;
+  height: 210px !important;
+  background: url('/images/space.jpg') center / cover;
 }
 .demo-card-wide > .mdl-card__menu {
   color: #fff;
