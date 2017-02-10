@@ -12,6 +12,7 @@ self.addEventListener('install', e => {
         '/images/ios-desktop.png',
         '/images/user.jpg',
         '/images/space.jpg',
+        '/images/os-logo.png',
       ])
       .then(() => self.skipWaiting());
     })
