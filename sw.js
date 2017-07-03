@@ -4,16 +4,15 @@ var cacheName = 'v1';
 // Default files to always cache
 var cacheFiles = [
 	'./',
-  '../../index.html',
-  '../styles/main.css',
-  '../scripts/main.js',
-  '../scripts/main.min.js',
-  '../images/touch/apple-touch-icon.png',
-  '../images/touch/chrome-touch-icon-192x192.png',
-  '../images/touch/icon-128x128.png',
-  '../images/touch/ms-touch-icon-144x144-precomposed.png',
-  '../images/hamburger.svg',
-	'https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700,400italic,700italic'
+  'index.html',
+  'styles/main.css',
+  'scripts/main.js',
+  'scripts/main.min.js',
+  'images/touch/apple-touch-icon.png',
+  'images/touch/chrome-touch-icon-192x192.png',
+  'images/touch/icon-128x128.png',
+  'images/touch/ms-touch-icon-144x144-precomposed.png',
+  'images/hamburger.svg',
 ]
 
 
