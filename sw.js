@@ -15,6 +15,7 @@ var cacheFiles = [
   'images/hamburger.svg',
 ]
 
+var recentRequest = FetchEvent.request;
 
 self.addEventListener('install', function(e) {
     console.log('[ServiceWorker] Installed');
