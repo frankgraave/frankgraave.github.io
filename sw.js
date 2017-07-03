@@ -7,6 +7,7 @@ var cacheFiles = [
   '../../index.html',
   '../styles/main.css',
   '../scripts/main.js',
+  '../scripts/main.min.js',
   '../images/touch/apple-touch-icon.png',
   '../images/touch/chrome-touch-icon-192x192.png',
   '../images/touch/icon-128x128.png',
