@@ -7,7 +7,7 @@ var cacheFiles = [
   'index.html',
 	'styles/material-indigo-pink-min.css',
   'styles/main.css',
-  'scripts/main.js',
+  // 'scripts/main.js',
   'scripts/main.min.js',
 	'scripts/material.min.js',
 	'scripts/jquery-3.2.1.min.js',
