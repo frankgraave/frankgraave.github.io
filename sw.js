@@ -51,7 +51,6 @@ self.addEventListener('activate', function(e) {
 	); // end e.waitUntil
 });
 
-
 self.addEventListener('fetch', function(e) {
 	console.log('[ServiceWorker] Fetch', e.request.url);
 	// e.respondWidth Responds to the fetch event
