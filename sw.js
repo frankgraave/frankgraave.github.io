@@ -99,7 +99,6 @@ self.addEventListener('install', function(event) {
 
   var urlsToPrefetch = [
 		'./',
-		'./?#',
 	  'index.html',
 		'styles/material-indigo-pink-min.css',
 	  'styles/main.css',
